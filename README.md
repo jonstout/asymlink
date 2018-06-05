@@ -1,7 +1,7 @@
 # asymlink
 
 Symlink project files into place with a single command. Great for
-setting up development or shared test environments.
+development or shared test environments.
 
 ## Getting started
 
